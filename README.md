@@ -1,8 +1,5 @@
 <h1 align="left">Hello, world!👋 Welcome to my tech space!</h1>
 
-<!-- GitHub Stats -->
-[![Mario Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=mariogsc12)](https://github.com/anuraghazra/github-readme-stats)
-
 ###
 
 <p align="left">🚀 Hi, I'm Mario!<br>I'm an electronics engineer passionate about robotics, embedded systems, and automation. I love designing and programming intelligent systems that push the boundaries of technology.</p>
@@ -43,4 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
 </div>
+
+[![Mario Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=mariogsc12)](https://github.com/anuraghazra/github-readme-stats)
 
