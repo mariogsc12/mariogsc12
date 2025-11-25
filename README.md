@@ -40,7 +40,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
 </div>
-
-###
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariogsc12&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariogsc12&layout=donut&hide=jupyter%20notebook)](https://github.com/mariogsc12/github-readme-stats)
