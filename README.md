@@ -40,3 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
 </div>
+
+###
+![](https://raw.githubusercontent.com/mriogsc12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mariogsc12/github-stats/master/generated/overview.svg#gh-light-mode-only)
