@@ -42,5 +42,5 @@
 </div>
 
 ###
-![](https://raw.githubusercontent.com/mriogsc12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mariogsc12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mariogsc12/github-stats/master/generated/overview.svg#gh-light-mode-only)
