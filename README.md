@@ -42,8 +42,5 @@
 </div>
 
 ###
-![](https://raw.githubusercontent.com/mariogsc12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mariogsc12/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/mariogsc12/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mariogsc12/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Mario's GitHub stats](https://github-readme-stats-zeta-dusky-18.vercel.app/api?username=mariogsc12&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats-zeta-dusky-18.vercel.app/api/top-langs/?username=mariogsc12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
