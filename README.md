@@ -14,6 +14,12 @@
 - 🎯 My goal: Work as a Robotics Engineer and develop cutting-edge technology that makes a real impact  
 - 🛠️ Strong focus on **embedded C/C++**, **sensor fusion**, and **robot control**  
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/mario-gomez-sanchez-celemin)
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -65,8 +71,4 @@
 </p>
 
 ---
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/mario-gomez-sanchez-celemin)
-
-</div>
+¡
