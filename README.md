@@ -20,11 +20,11 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats-tau-three-88.vercel.app/api?username=mariogsc12&show_icons=true&theme=transparent"
+    src="https://github-readme-stats-marios-projects-8c175eee.vercel.app/api?username=mariogsc12&show_icons=true&theme=transparent"
     height="165"
   />
   <img 
-    src="https://github-readme-stats-tau-three-88.vercel.app/api/top-langs/?username=mariogsc12&layout=donut"
+    src="https://github-readme-stats-marios-projects-8c175eee.vercel.app/api/top-langs/?username=mariogsc12&layout=donut"
     height="165"
   />
 </p>
