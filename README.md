@@ -30,7 +30,7 @@
     height="165"
   />
   <img 
-    src="https://github-readme-stats-chi-lime-49.vercel.app/api/top-langs/?username=mariogsc12&layout=donut&exclude_repo=ProcesamientoImagenComputador"
+    src="https://github-readme-stats-chi-lime-49.vercel.app/api/top-langs/?username=mariogsc12&layout=donut&exclude_repo=Traffic_Signal_Detector"
     height="165"
   />
 </p>
