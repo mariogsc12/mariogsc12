@@ -43,13 +43,11 @@
     <td width="24%" align="center" valign="top">
       <h3>Software & AI</h3>
       <img src="https://skillicons.dev/icons?i=python,cpp,ros&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=matlab,opencv,pytorch,&theme=dark" /><br><br>
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=matlab,opencv,pytorch,tensorflow&theme=dark" /><br><br>
     </td>
     <td width="24%" align="center" valign="top">
       <h3>Embedded</h3>
-      <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,linux&theme=dark" /><br>
       <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
       <!-- <img src="https://img.shields.io/badge/PX4-333333?style=flat&logo=dji&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/Ardupilot-F54D50?style=flat&logo=arduino&logoColor=white" />
