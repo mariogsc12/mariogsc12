@@ -40,28 +40,29 @@
 ## 🧰 Tech Stack
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="24%" align="center" valign="top">
       <h3>Software & AI</h3>
-      <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,docker&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=python,cpp,ros&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=matlab,opencv,pytorch,&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /><br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="24%" align="center" valign="top">
       <h3>Embedded</h3>
-      <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,linux&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" /><br>
       <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
       <!-- <img src="https://img.shields.io/badge/PX4-333333?style=flat&logo=dji&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/Ardupilot-F54D50?style=flat&logo=arduino&logoColor=white" />
       <br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="24%" align="center" valign="top">
       <h3>Devops</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,aws,fastapi&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=cmake,bash,vscode,gitlab&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=cmake,fastapi,gitlab&theme=dark" /><br><br>
     </td>
-  </tr>
-    <td width="33%" align="center" valign="top">
+    <td width="24%" align="center" valign="top">
       <h3>Others</h3>
-      <img src="https://skillicons.dev/icons?i=latex,matlab,autocad&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=latex,bash,autocad&theme=dark" /><br>
     </td>
   </tr>
 </table>
